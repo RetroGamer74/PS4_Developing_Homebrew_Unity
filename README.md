@@ -1,4 +1,4 @@
-# PS4 Developing Homebrew Unity (4.55 by the way)
+# PS4 Developing Homebrew Unity (Tested with 4.55 but you can build for other versions if you use the right SDK and Unity versions)
 PS4 Developing HomeBrew with Unity is set of apps and info I've prepared for you, if you're interested on developing homebrew.
 
 So this is all information you've got available from my repos.
