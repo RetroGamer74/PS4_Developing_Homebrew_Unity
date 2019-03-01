@@ -55,3 +55,6 @@ https://github.com/RetroGamer74/PS4_UnjailPlugin_Unity_NativeCode
 Finally if you get further info about how to compile using Unity PS4 and create packages you can follow next tutorial:
 
 https://github.com/RetroGamer74/HowToBuildWithUnityPS4FakePKG
+
+![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
+[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/cUnjkPH)
